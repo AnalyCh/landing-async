@@ -1,0 +1,24 @@
+{
+  "name": "landing-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnalyCh/landing-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnalyCh/landing-async/issues"
+  },
+  "homepage": "https://github.com/AnalyCh/landing-async#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
